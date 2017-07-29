@@ -1,5 +1,6 @@
 <?
 
-echo ("it works");
+echo ("it works \n
+ 8=====D");
 
 ?>
